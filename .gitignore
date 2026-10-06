@@ -1,0 +1,18 @@
+# Tooling / editors
+.freebuff/
+.vscode/
+.idea/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Vendor firmware bundles and their extracted contents
+firmware/*.zip
+firmware/extracted/
+
+# Runtime state and logs written by the test harness
+test_printer/.run/
+test_printer/.serial/*.log
+*.log

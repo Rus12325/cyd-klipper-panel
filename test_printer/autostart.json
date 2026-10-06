@@ -1,0 +1,12 @@
+{
+  "bridge_ref": "v2.1.2",
+  "mock_port": 7125,
+  "poll": 10.0,
+  "port": null,
+  "print": true,
+  "print_seconds": 120.0,
+  "quiet": true,
+  "reset_on_silence": true,
+  "silent_limit": 300.0,
+  "traffic_timeout": 30.0
+}
